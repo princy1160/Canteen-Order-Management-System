@@ -7,7 +7,6 @@
   <h3>:rocket: <a  target="_blank" href="http://coms.42web.io/"> Run COMS Live </a></h3>  
 </div>
 
-Welcome to **Canteen Order Management System** Our final project for the course CS207 Applied Database Practicum 
 
   ---
 # Problem Statement
